@@ -1,0 +1,6 @@
+info:
+  name: get 7
+  type: http
+http:
+  method: GET
+  url: https://api.example.test/auth-gateway-2/7
